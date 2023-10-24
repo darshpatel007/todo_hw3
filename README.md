@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+CSC 436: Web Applications HW3
+
+Project folder Name : todo_new
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
